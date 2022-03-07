@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="traicay_araay">
+        <item>Mit</item>
+        <item>Xoai</item>
+        <item>Chom Chom</item>
+        <item>Sau rieng</item>
+        <item>thanh Long</item>
+        <item>Mang Cut</item>
+    </string-array>
+</resources>
